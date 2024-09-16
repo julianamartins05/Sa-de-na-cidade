@@ -1,1 +1,2 @@
-# Sa-de-na-cidade
+# Saúde na cidade 
+Escolhi esse tema pois, precisa ser abordado com mais frequência,  como, a falta de infraestrutura dentro desses hospitais, não  possuem IML, já que o mais próximo são em cidades vizinhas, como no caso de Laranjeiras do Sul, não tem IML e precisa ao mais próximo nesse caso seria o de Guarapuava, muitas das vezes os familiares do falecido esperam quase um dia para saber a causa da morte.
